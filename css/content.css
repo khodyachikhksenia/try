@@ -1,0 +1,2111 @@
+body{
+    overflow-x: hidden;
+}
+
+
+ .logo {
+   
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: 0vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo2{
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -5.9vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo3 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -4vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo4 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -1vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo5 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -6vw;
+    position: absolute; 
+    z-index: 1;
+ }
+
+
+ .menu{
+    margin-top: 5.9vw;
+    display: flex;
+    gap: 3vw;
+
+ }
+
+ .frameone,  .frametwo , .framethree {
+    width: 30.25vw;
+    position: relative;
+   
+ }
+
+
+ .perspectone {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+    
+
+ .perspecttwo {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+
+ .perspectthree {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+    
+.firsttext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -20vw;
+    margin-left: 2.5vw;
+}
+
+.bigphrase{
+    display: flex;
+    position: absolute;
+    width: 72vw;
+    height: 72vw;
+    overflow-y: hidden;
+    margin-top: -20vw;
+    margin-left: 66vw;
+    
+}
+
+.secondtext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -16vw;
+    margin-left: 2.2vw;
+}
+
+.bigphrase2{
+    display: flex;
+    position: absolute;
+    width: 77vw;
+    height: 77vw;
+    margin-top: -25vw;
+    margin-left: 74vw;
+}
+
+.thirdtext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -15vw;
+    margin-left: 2.2vw;
+}
+
+
+.bigphrase3 {
+    display: flex;
+    position: absolute;
+    width: 60vw;
+    height: 60vw;
+    margin-top: -8vw;
+    margin-left: 76.5vw;
+}
+
+.button1 {
+width: 20vw;
+display: flex;
+position: absolute;
+margin-top: -11vw;
+margin-left: 76vw;
+}
+
+.button2 {
+    width: 20vw;
+    display: flex;
+    position: absolute;
+    margin-top: -7vw;
+    margin-left: 76vw;
+    }
+
+.bt1 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -10vw;
+    margin-left: 77vw;
+    text-decoration: none;
+    }
+
+.bt2 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #ffffff;
+    margin-top: -6.2vw;
+    margin-left: 85vw;
+    text-decoration: none;
+    }
+
+    .bt3 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -10vw;
+        margin-left: 77vw;
+        text-decoration: none;
+        }
+    
+    .bt4 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #ffffff;
+        margin-top: -6.2vw;
+        margin-left: 90vw;
+        text-decoration: none;
+        }
+
+        .bt5 {
+            display: flex;
+            position: absolute;
+            font-family: "TT Firs Neue Educational Medium";
+            font-size: 1.5vw;
+            line-height: 2vw;
+            color: #262EDA;
+            margin-top: -10vw;
+            margin-left: 77vw;
+            text-decoration: none;
+            }
+        
+        .bt6 {
+            display: flex;
+            position: absolute;
+            font-family: "TT Firs Neue Educational Medium";
+            font-size: 1.5vw;
+            line-height: 2vw;
+            color: #ffffff;
+            margin-top: -6.2vw;
+            margin-left: 89vw;
+            text-decoration: none;
+            }
+    
+.setka {
+display: flex;
+position: relative;
+width: 70w;
+margin-left: 5vw;
+margin-top: 1vw;
+opacity: 0%;
+
+}
+
+.ph1 {
+display: flex;
+width: 18vw;
+height: 8vw;
+position: relative;
+margin-left: 20.5vw;
+margin-top: -155vw;
+margin-bottom: 120vw;
+}
+
+.ph2 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 47.5vw;
+    margin-top: -129vw;
+    margin-bottom: 120vw;
+    }
+
+.ph3 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 76vw;
+        margin-top: -125vw;
+        margin-bottom: 120vw;
+    }
+
+.ph4 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 5vw;
+        margin-top: -111vw;
+        margin-bottom: 120vw;
+    }
+
+.ph5 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 34vw;
+        margin-top: -134.5vw;
+        margin-bottom: 120vw;
+}
+
+.ph6 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 63.5vw;
+    margin-top: -121.5vw;
+    margin-bottom: 120vw;
+}
+
+.ph7 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 4.5vw;
+    margin-top: -112.5vw;
+    margin-bottom: 120vw;
+}
+
+.ph8 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 26.5vw;
+    margin-top: -136vw;
+    margin-bottom: 120vw;
+}
+
+.ph9 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 48vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+}
+
+.ph10 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 79vw;
+    margin-top: -124vw;
+    margin-bottom: 120vw;
+}
+
+.ph11 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 16vw;
+    margin-top: -110vw;
+    margin-bottom: 120vw;
+}
+
+.ph12 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 35vw;
+    margin-top: -134vw;
+    margin-bottom: 120vw;
+}
+
+.ph13 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 57vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+}
+
+.ph14 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 5vw;
+    margin-top: -107vw;
+    margin-bottom: 120vw;
+}
+
+.ph15 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 31.5vw;
+    margin-top: -131vw;
+    margin-bottom: 120vw;
+}
+
+.ph16 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 75vw;
+    margin-top: -135vw;
+    margin-bottom: 120vw;
+}
+
+.ph17 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 12vw;
+    margin-top: -101vw;
+    margin-bottom: 120vw;
+}
+
+.ph18 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 36vw;
+    margin-top: -132vw;
+    margin-bottom: 120vw;
+}
+
+.ph19 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 55vw;
+    margin-top: -139vw;
+    margin-bottom: 120vw;
+}
+
+.ph20 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 76vw;
+    margin-top: -115vw;
+    margin-bottom: 120vw;
+}
+
+.ph21 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 5vw;
+    margin-top: -105vw;
+    margin-bottom: 120vw;
+}
+
+.ph22 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 27vw;
+    margin-top: -125vw;
+    margin-bottom: 120vw;
+}
+
+.ph23 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 44vw;
+    margin-top: -142vw;
+    margin-bottom: 120vw;
+}
+
+.ph24 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 65vw;
+    margin-top: -123vw;
+    margin-bottom: 120vw;
+}
+
+.ph25 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 13vw;
+    margin-top: -100vw;
+    margin-bottom: 120vw;
+}
+
+.ph26 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 37vw;
+    margin-top: -130vw;
+    margin-bottom: 120vw;
+}
+
+.ph27 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 56vw;
+    margin-top: -136vw;
+    margin-bottom: 120vw;
+}
+
+.ph28 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 79vw;
+    margin-top: -124vw;
+    margin-bottom: 120vw;
+}
+
+.ph29 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 8vw;
+    margin-top: -102vw;
+    margin-bottom: 120vw;
+}
+
+.ph30 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 38vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+}
+
+.ph31 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 57vw;
+    margin-top: -139vw;
+    margin-bottom: 120vw;
+}
+
+.ph32 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 21vw;
+    margin-top: -104vw;
+    margin-bottom: 120vw;
+}
+
+.ph33 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 77vw;
+    margin-top: -137vw;
+    margin-bottom: 15vw;
+}
+
+.ph_all {
+    overflow-y: hidden;
+}
+
+/* .fr_all {
+    overflow-y: hidden;
+} */
+
+/* постер */
+
+
+/* .themain {
+    margin-top: -0.9vw;
+    margin-left: -1vw;
+    width: 103vw;
+    height: 425vw;
+    position: relative;
+    opacity: 100%;
+
+}
+
+
+.black{
+
+    display: flex;
+    position: absolute;
+    width: 17vw;
+    height: 8vw;
+    margin-top: -424vw;
+    margin-left: 82.2vw;
+    rotate: 180deg;
+
+}  */
+
+/* цифры */
+
+/* 
+.one {
+    margin-top: -372vw;
+    margin-left: 76.5vw;
+    font-size: 17vw;
+    position: absolute;
+    display: flex;
+    
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+.add1 {
+    margin-top: -356vw;
+    margin-left: 78vw;
+    font-size: 1.5vw;
+    position: absolute;
+    display: flex;
+
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+   
+}
+
+
+
+
+
+.two {
+    display: flex;
+    
+    position: absolute;
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    font-size: 17vw;
+    margin-top: -293vw;
+    margin-left: 7vw;
+    color: rgb(255, 255, 255);
+}
+
+.add2 {
+    width: 20vw;
+    height: 10vw;
+    margin-top: -280.8vw;
+    margin-left: 17.9vw;
+    font-size: 1.5vw;
+    position: absolute;
+    display: flex;
+   
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.three {
+    display: flex;
+    position: absolute;
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    font-size: 17vw;
+    margin-top: -218vw;
+    margin-left: 73vw;
+    color: rgb(255, 255, 255);
+}
+
+.add3 {
+    width: 20vw;
+    height: 10vw;
+    margin-top: -206.5vw;
+    margin-left: 83.5vw;
+    font-size: 1.5vw;
+    position: absolute;
+    display: flex;
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+
+.four {
+    display: flex;
+    position: absolute;
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    font-size: 17vw;
+    margin-top: -183vw;
+    margin-left: 6vw;
+    color: rgb(255, 255, 255);
+}
+
+.add4 {
+    width: 20vw;
+    height: 10vw;
+    margin-top: -167.3vw;
+    margin-left: 12vw;
+    font-size: 1.5vw;
+    position: absolute;
+    display: flex;
+    
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+.five {
+    display: flex;
+    position: absolute;
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    font-size: 17vw;
+    margin-top: -65vw;
+    margin-left: 65vw;
+    color: rgb(255, 255, 255);
+}
+
+.add5 {
+    width: 20vw;
+    height: 10vw;
+    margin-top: -53vw;
+    margin-left: 75.5vw;
+    font-size: 1.5vw;
+    position: absolute;
+    display: flex;
+    
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+ */
+
+/* 1 рамка */
+/* 
+
+
+.face1 {
+    display: flex;
+    position: absolute;
+    width: 28vw;
+    height: 20vw;
+    margin-top: -420vw;
+    margin-left: -2vw;
+    rotate: -5deg;
+    
+} 
+
+.face1:hover {
+    animation: fa1 0.7s ease-in-out 0.1s infinite alternate
+   }
+
+@keyframes fa1{
+    from {transform: translateY(0%) translateX(0%)}
+    to {transform: translateY(120%) translateX(-10%)}
+    } 
+
+
+.face2 {
+    display: flex;
+    position: absolute;
+    width: 38vw;
+    height: 30vw;
+    margin-top: -398vw;
+    margin-left: 19vw;
+} */
+
+/* 
+.face2:hover {
+    animation: fa2 0.7s ease-in-out 0.1s infinite alternate
+   }
+
+@keyframes fa2{
+    from {transform: translateY(0%) translateX(0%)}
+    to {transform: translateY(-80%) translateX(0%)}
+    } 
+
+
+.face3 {
+    display: flex;
+    position: absolute;
+    width: 34vw;
+    height: 29vw;
+    margin-top: -423vw;
+    margin-left: 45vw;
+
+}
+
+.face3:hover {
+    animation: fa3 0.7s ease-in-out 0.1s infinite alternate
+   }
+
+@keyframes fa3{
+    from {transform: translateY(0%) translateX(0%)}
+    to {transform: translateY(80%) translateX(0%)}
+    }  */
+
+    /* 2 рамка */
+
+    /* .plant1 {
+        display: flex;
+        position: absolute;
+        width: 37vw;
+        height: 31vw;
+        margin-top: -345vw;
+        margin-left: 1vw;
+        rotate: -10deg;
+
+    } */
+/* 
+    .plant2 {
+        display: flex;
+        position: absolute;
+        width: 20vw;
+        height: 36vw;
+        margin-top: -325vw;
+        margin-left: 18vw;
+        rotate: 5deg;
+    } */
+/* 
+    .plant3 {
+        display: flex;
+        position: absolute;
+        width: 26vw;
+        height: 33vw;
+        margin-top: -325vw;
+        margin-left: 5vw;
+        rotate: 0deg;
+    } */
+/* green */
+    /* .plant4 {
+        display: flex;
+        position: absolute;
+        width: 20vw;
+        height: 28vw;
+        margin-top: -332vw;
+        margin-left: 29vw;
+        rotate: -55deg;
+    } */
+
+    /* flower long */
+
+    /* .plant5 {
+        display: flex;
+        position: absolute;
+        width: 19vw;
+        height: 22vw;
+        margin-top: -320vw;
+        margin-left: 41vw;
+        rotate: 0deg;
+    } */
+
+     /* pink */
+    /* .plant6 {
+        display: flex;
+        position: absolute;
+        width: 23vw;
+        height: 20vw;
+        margin-top: -336vw;
+        margin-left: 40vw;
+        rotate: 0deg;
+    } */
+/* snow */
+    /* .plant7 {
+        display: flex;
+        position: absolute;
+        width: 17vw;
+        height: 17vw;
+        margin-top: -310vw;
+        margin-left: 31vw;
+        rotate: -35deg;
+    } */
+    
+    /* bird */
+    /* .plant8 {
+        display: flex;
+        position: absolute;
+        width: 22vw;
+        height: 20vw;
+        margin-top: -345vw;
+        margin-left: 32vw;
+        rotate: 3deg;
+    } */
+
+    /* babochka */
+    /* .plant9 {
+        display: flex;
+        position: absolute;
+        width: 31vw;
+        height: 31vw;
+        margin-top: -327vw;
+        margin-left: 52vw;
+        rotate: 28deg;
+    } */
+
+    /* plant */
+/* 
+    .plant10 {
+        display: flex;
+        position: absolute;
+        width: 22vw;
+        height: 36vw;
+        margin-top: -329.5vw;
+        margin-left: 66vw;
+        rotate: -9deg;
+    } */
+
+     /* big */
+
+    /* .plant11 {
+        display: flex;
+        position: absolute;
+        width: 22vw;
+        height: 22vw;
+        margin-top: -344vw;
+        margin-left: 57vw;
+        rotate: 17deg;
+
+    }
+
+    .plant12 {
+        display: flex;
+        position: absolute;
+        width: 28vw;
+        height: 22vw;
+        margin-top: -319vw;
+        margin-left: 80vw;
+        rotate: 14deg;
+    }
+
+    .plant13 {
+        display: flex;
+        position: absolute;
+        width: 25vw;
+        height: 22vw;
+        margin-top: -339vw;
+        margin-left: 80vw;
+        rotate: -10deg;
+    }
+
+    /* 3 рамка */
+/* 
+    .cloud1 {
+        display: flex;
+        position: absolute;
+        width: 85vw;
+        height: 74vw;
+        margin-top: -275vw;
+        margin-left: 19vw;
+        rotate: -3deg;
+        scale: 65%;
+    }
+
+    .cloud1:hover {
+        scale: 80%;
+    }
+
+    .cloud2 {
+        display: flex;
+        position: absolute;
+        width: 38vw;
+        height: 38vw;
+        margin-top: -272vw;
+        margin-left: 23vw;
+        rotate: -3deg;
+        scale: 70%;
+
+    }
+
+    .cloud2:hover {
+        scale: 90%;
+    }
+
+    .cloud3 {
+        display: flex;
+        position: absolute;
+        width: 35vw;
+        height: 32vw;
+        margin-top: -245vw;
+        margin-left: 64vw;
+        rotate: -10deg;
+        scale: 70%;
+
+    }
+
+    .cloud3:hover {
+        scale: 100%;
+    }
+
+    .cloud4 {
+        display: flex;
+        position: absolute;
+        width: 74vw;
+        height: 77vw;
+        margin-top: -278vw;
+        margin-left: -15vw;
+        rotate: -3deg;
+        scale: 60%;
+    }
+
+    .cloud4:hover {
+        scale: 80%;
+    }
+
+    .cloud5 {
+        display: flex;
+        position: absolute;
+        width: 40vw;
+        height: 43vw;
+        margin-top: -269vw;
+        margin-left: -11vw;
+        rotate: -3deg;
+        scale: 65%;
+    }
+
+    .cloud5:hover {
+        scale: 90%;
+    }  */
+
+    /* 4 рамка */
+/* 
+    .time1 {
+        display: flex;
+        position: absolute;
+        width: 25vw;
+        height: 25vw;
+        margin-top: -192vw;
+        margin-left: 74vw;
+        animation: t1 infinite 1s linear;
+    }
+
+    @keyframes t1{
+        0% {rotate: 0deg;}
+        25% {rotate: 90deg;}
+        50% {rotate: 180deg;}
+        75% {rotate: 270deg;}
+        100% {rotate: 360deg;}
+    }
+
+    .time1:hover{
+        animation-play-state: paused;
+    } */
+    
+
+  /* 2 */
+/* 
+    .time2 {
+        display: flex;
+        position: absolute;
+        width: 25vw;
+        height: 25vw;
+        margin-top: -169vw;
+        margin-left: 75vw;
+        rotate: 42deg;
+        animation: t2 infinite 1s linear;
+}
+    
+    
+
+@keyframes t2{
+    0% {rotate: -0deg;}
+    25% {rotate: -90deg;}
+    50% {rotate: -180deg;}
+    75% {rotate: -270deg;}
+    100% {rotate: -360deg;}
+}
+
+.time2:hover{
+    animation-play-state: paused;
+}
+
+    .time3 {
+        display: flex;
+        position: absolute;
+        width: 25vw;
+        height: 25vw;
+        margin-top: -168.7vw;
+        margin-left: 46vw;
+        rotate: 68deg;
+        animation: t3 infinite 1s linear;
+    }
+
+    @keyframes t3{
+        0% {rotate: 0deg;}
+        25% {rotate: 90deg;}
+        50% {rotate: 180deg;}
+        75% {rotate: 270deg;}
+        100% {rotate: 360deg;}
+    }
+
+    .time3:hover{
+        animation-play-state: paused;
+    } */
+  /* 5*/
+    /* .time4 {
+        display: flex;
+        position: absolute;
+        width: 24vw;
+        height: 24vw;
+        margin-top: -183vw;
+        margin-left: 32vw;
+        rotate: -40deg;
+        animation: t4 infinite 1s linear;
+    }
+
+    @keyframes t4{
+        0% {rotate: 0deg;}
+        25% {rotate: 90deg;}
+        50% {rotate: 180deg;}
+        75% {rotate: 270deg;}
+        100% {rotate: 360deg;}
+    }
+
+    .time4:hover{
+        animation-play-state: paused;
+    }
+
+    /* 3 */
+
+    /* .time5 {
+        display: flex;
+        position: absolute;
+        width: 20vw;
+        height: 20vw;
+        margin-top: -177.5vw;
+        margin-left: 63vw;
+        rotate: 10deg;
+        animation: t5 infinite 1s linear;
+    }
+
+    @keyframes t5{
+        0% {rotate: -0deg;}
+        25% {rotate: -90deg;}
+        50% {rotate: -180deg;}
+        75% {rotate: -270deg;}
+        100% {rotate: -360deg;}
+    }
+
+    .time5:hover{
+        animation-play-state: paused;
+    }
+
+      /* 6 */
+    /* .time6 {
+        display: flex;
+        position: absolute;
+        width: 25vw;
+        height: 25vw;
+        margin-top: -166vw;
+        margin-left: 21vw;
+        rotate: 0deg;
+        animation: t6 infinite 1s linear;
+
+    }
+
+    @keyframes t6{
+        0% {rotate: -0deg;}
+        25% {rotate: -90deg;}
+        50% {rotate: -180deg;}
+        75% {rotate: -270deg;}
+        100% {rotate: -360deg;}
+    }
+
+    .time6:hover {
+        animation-play-state: paused;
+    }
+
+    
+    .textone {
+        position: absolute;
+        
+        margin-top: -98vw;
+        margin-left: 32vw;
+        width: 35vw;
+        height: 30vw;
+      }
+      */
+/* 
+      .wish {
+        position: absolute;
+        width: 35vw;
+        height: 30vw;
+        background-color: transparent;
+        border: none;
+        font-size: 3vw;
+        line-height: 3.5vw;
+        color: rgb(0, 0, 0);
+        font-family: "IBMPlexMono-SemiBold";
+        font-style: italic;
+      }
+
+      .none{ cursor: none;}
+
+      .cursor {
+        position: absolute;
+        border-radius: 100%;
+        z-index: 1;
+        
+      }
+      
+      .cursor2 {
+        width: 5vw;
+        height: 5vw;
+      }  */
+
+/* 
+.name {
+      margin-top: -7vw;
+      margin-left: 26.5vw;
+      font-size: 2.5vw;
+      position: absolute;
+      display: flex;
+      font-family: "IBMPlexMono-SemiBold";
+      font-style: bold;
+      color: rgb(255, 255, 255);
+
+    }
+
+    .name2 {
+        margin-top: -4vw;
+        margin-left: 52.8vw;
+        font-size: 2.5vw;
+        position: absolute;
+        display: flex;
+        font-family: "IBMPlexMono-SemiBold";
+        font-style: bold;
+        color: rgb(255, 255, 255);
+  
+      } */
+
+      /* .hearts{
+
+            display: flex;
+            position: absolute;
+            width: 70vw;
+            height: 47vw;
+            margin-top: -47vw;
+            margin-left: -4vw;
+            animation: love infinite 1s ease-in-out;
+        
+        
+      }
+      
+      @keyframes love{
+        from {scale: 70%;}
+        to {scale: 100%;}
+       
+    }   */
+
+/* конец постера */
+
+/* .po_all {
+    overflow-y: hidden;
+} */
+
+
+/* форма */
+
+.big_form {
+    margin-left: 20vw;
+    margin-top: 6vw;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+}
+
+
+input {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+}
+
+select {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+}
+
+.box{
+    line-height: normal;
+    font-size: 1.3vw;
+}
+
+.book1{
+   position: relative;
+   height: 15vw;
+    width: 100vw;
+    margin-top: 4vw;
+    margin-left: 30vw;
+    padding-left: 10vw;
+    overflow: hidden;
+}
+
+
+ .line1 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: one1 13.5s linear infinite;
+    overflow: hidden;
+    
+} 
+
+@keyframes one1{
+    0% {left: -935%; top: 0%;}
+    100%{left: 60%; top: 0%;}
+}
+
+.line1:hover{
+    animation-play-state: paused;
+}
+
+.book2{
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 15vw;
+    display: flex;
+    position: relative;
+    height: 15vw;
+    overflow: hidden;
+}
+
+ .line2 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: two2 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes two2{
+    0% {left: -943%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line2:hover{
+    animation-play-state: paused;
+}
+
+.book3{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 22vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line3 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: three3 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes three3{
+    0% {left: -941%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line3:hover{
+    animation-play-state: paused;
+}
+
+.book4{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 33vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line4 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: four4 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes four4{
+    0% {left: -949%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line4:hover{
+    animation-play-state: paused;
+}
+
+
+.book5{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 26vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line5 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: five5 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes five5{
+    0% {left: -953%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line5:hover{
+    animation-play-state: paused;
+}
+
+
+.book6{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 12vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line6 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: six6 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes six6{
+    0% {left: -960%; top: 0%;}
+    100%{left: 80%; top: 0%;}
+}
+
+.line6:hover{
+    animation-play-state: paused;
+}
+
+.book7{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 18vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line7 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: seven7 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes seven7{
+    0% {left: -966%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line7:hover{
+    animation-play-state: paused;
+}
+
+.book8{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 7vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line8 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: eight8 15s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes eight8{
+    0% {left: -970%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line8:hover{
+    animation-play-state: paused;
+}
+
+
+.pic_1{
+    width: 101vw;
+    margin-top: -5vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+    
+}
+
+.pic_2{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_3{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_4{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_5{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_6{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_7{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_8{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.pic_9{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);;
+    position: relative;
+}
+
+.pic_10{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0.4vw);
+    position: relative;
+}
+
+.on_p1 {
+    width: 45vw;
+    margin-top: -714vw;
+    margin-left: 29.5vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p2 {
+    width: 36vw;
+    margin-top: -643.7vw;
+    margin-left: 33.5vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p3 {
+    width: 45vw;
+    margin-top: -568.5vw;
+    margin-left: 29.4vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p4 {
+    width: 47vw;
+    margin-top: -494vw;
+    margin-left: 28.4vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p5 {
+    width: 43vw;
+    margin-top: -421.9vw;
+    margin-left: 30.3vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p6 {
+    width: 43vw;
+    margin-top: -350.8vw;
+    margin-left: 30.3vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p7 {
+    width: 46vw;
+    margin-top: -280vw;
+    margin-left: 29vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p8 {
+    width: 41vw;
+    margin-top: -204.4vw;
+    margin-left: 31vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p9 {
+    width: 46vw;
+    margin-top: -136.5vw;
+    margin-left: 28.5vw;
+    display: flex;
+    position: absolute;
+}
+
+.on_p10 {
+    width: 40vw;
+    margin-top: -61.2vw;
+    margin-left: 31.2vw;
+    display: flex;
+    position: absolute;
+}
+
+.but_1 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -648.7vw;
+margin-left: 0.3vw;
+}
+
+.bt1_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -648vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.exib1 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -648vw;
+    margin-left: 74.7vw;
+    }
+
+    
+
+.but_2 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -573.4vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt2_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -572.7vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .exib2 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -572.5vw;
+        margin-left: 59.4vw;
+        }
+
+.but_3 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -499.8vw;
+margin-left: 0.3vw;
+}
+
+.bt3_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -499.1vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.exib3 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -499.2vw;
+    margin-left: 69.6vw;
+    }
+
+.but_4 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -427.3vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt4_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -426.6vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .exib4 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -426.6vw;
+        margin-left: 70.6vw;
+        }
+
+
+.but_5 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -355.8vw;
+margin-left: 0.3vw;
+}
+
+.bt5_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -355.1vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.exib5 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -355vw;
+    margin-left: 66.8vw;
+    }
+
+
+.but_6 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -284.7vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt6_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -284vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .exib6 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -284.1vw;
+        margin-left: 69vw;
+        }
+    
+    
+.but_7 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -209.5vw;
+margin-left: 0.3vw;
+}
+
+.bt7_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -208.8vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.exib7 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -208.8vw;
+    margin-left: 65vw;
+    }
+
+
+.but_8 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -141.4vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt8_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -140.7vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+    
+    .exib8 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -140.6vw;
+        margin-left: 71.2vw;
+        }
+
+.but_9 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -66.1vw;
+margin-left: 0.3vw;
+}
+
+.bt9_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -65.4vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.exib9 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -65.4vw;
+    margin-left: 67.4vw;
+    }
+
+.but_10 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: 0vw;
+    margin-left: 0.3vw;
+    padding-bottom: 0.3vw;
+    padding-top: 0.2vw;
+    }
+
+
+    .bt10_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: 0.8vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .exib10 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: 0.7vw;
+        margin-left: 68.6vw;
+        }
+    
+
+.pack{
+    display: flex;
+    position: absolute;
+    width: 37.2vw;
+    margin-top: 5vw;
+    margin-left: -1.5vw;
+}
+
+.note{
+    display: flex;
+    position: absolute;
+    width: 33.65vw;
+    margin-top: 5vw;
+    margin-left: 34vw;
+}
+
+.cups{
+    display: flex;
+    position: absolute;
+    width: 34.7vw;
+    margin-top: 5vw;
+    margin-left: 67.6vw;
+}
+
+.bag{
+    display: flex;
+    position: absolute;
+    width: 34vw;
+    margin-top: 40.7vw;
+}
+
+.tube{
+    display: flex;
+    position: absolute;
+    width: 33.9vw;
+    margin-top: 40.7vw;
+    margin-left: 34vw;
+}
+
+.candle{
+    display: flex;
+    position: absolute;
+    width: 34.2vw;
+    margin-top: 40.7vw;
+    margin-left: 67.6vw;
+}
+
+.sweater{
+    display: flex;
+    position: absolute;
+    width: 34vw;
+    margin-top: 81.6vw;
+}
+
+.shirt{
+    display: flex;
+    position: absolute;
+    width: 54.9vw;
+    margin-top: 78.9vw;
+    margin-left: 22.9vw;
+}
+
+.clock{
+    display: flex;
+    position: absolute;
+    width: 32.6vw;
+    margin-top: 81.6vw;
+    margin-left: 67.6vw;
+}
+
+
+.menu_img{
+    width: 100%;
+
+}
+
+.menu_img1{
+    width: 100%;
+    margin-left: 1vw;
+
+}
